@@ -3,9 +3,9 @@
 
 ### 1. Create and Customize Amazon Q Application
 The prompt I used for Skill Gap Analysis
-![](./img/1.%20Create%20and%20Customize%20Amazon%20Q%20Application/1.%20The%20prompt%20I%20used%20for%20Skill%20Gap%20Analysis.png)]
+![](./img/1.%20Create%20and%20Customize%20Amazon%20Q%20Application/1.%20The%20prompt%20I%20used%20for%20Skill%20Gap%20Analysis.png)
 Final application with all the input and output cards (Default)
-![](./img/1.%20Create%20and%20Customize%20Amazon%20Q%20Application/2. %20Final%20application%20with%20all%20the%20input%20and%20output%20cards_1.png)
+![](./img/1.%20Create%20and%20Customize%20Amazon%20Q%20Application/2.%20Final%20application%20with%20all%20the%20input%20and%20output%20cards_1.png)
 Final application with all the input and output cards (Filled, with output)
 ![](./img/1.%20Create%20and%20Customize%20Amazon%20Q%20Application/2.%20Final%20application%20with%20all%20the%20input%20and%20output%20cards_2.png)
 
