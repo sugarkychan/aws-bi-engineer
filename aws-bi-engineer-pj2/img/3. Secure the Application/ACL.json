@@ -1,0 +1,17 @@
+{
+  "access_control": [
+    {
+      "principal": "arn:aws:iam::782815632837:user/career.coach.one",
+      "allowed_folders": [
+        "s3://course-aws-s3-bucket/Data/Security/"
+      ]
+    },
+    {
+      "principal": "arn:aws:iam::782815632837:user/career.coach.two",
+      "expertise": "Medicine",
+      "allowed_folders": [
+        "s3://course-aws-s3-bucket/Data/Medicine/"
+      ]
+    }
+  ]
+}
