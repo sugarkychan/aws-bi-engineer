@@ -18,11 +18,12 @@ Sync data from s3 bucket
 ![](./img/2.%20Upload%20Static%20PDF%20and%20Connect%20Amazon%20S3/3.%20Sync%20data%20from%20s3%20bucket.png)
 
 ### 3. Secure the Application
+An ACL file is uploaded and applied to the relevant data source
+![](./img/3.%20Secure%20the%20Application/1.%20An%20ACL%20file%20is%20uploaded%20and%20applied%20to%20the%20relevant%20data%20source.png)
 Implement content moderation by defining restricted keywords
 ![](./img/3.%20Secure%20the%20Application/2.%20Implement%20content%20moderation%20by%20defining%20restricted%20keywords.png)
 ACL file
-![](./img/7.%20Dashboard.png)
-[ACL.json](./img/7.%20Student_Enrollment_Dashboard_2025-08-28T14_34_38.pdf)
+[ACL.json](./img/3.%20Secure%20the%20Application/ACL.json)
 
 ### 4. Publish and Share the Application
 Share the final applications
@@ -33,3 +34,5 @@ Marked as Verified Q App
 ![](./img/4.%20Publish%20and%20Share%20the%20Application/3.%20Marked%20as%20Verified%20Q%20App.png)
 
 
+Thanks for watching!
+This is my first project on gitlab!
